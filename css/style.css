@@ -1,0 +1,21 @@
+ body {
+     background-color: #EAEAEA;
+ }
+
+ hr {
+     border: none;
+     border-bottom-style: dotted;
+     width: 5%;
+     border-width: 5px;
+     border-color: gray;
+ }
+
+ img {
+     height: 40vh;
+ }
+ h1,h3{
+    color: #66bfbf;
+ }
+ #hurt{
+    color: red;
+ }
